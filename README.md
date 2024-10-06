@@ -1,2 +1,2 @@
 # ReadBook
-Books on the humanities I have read
+Books I have read
