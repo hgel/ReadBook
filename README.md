@@ -4,7 +4,8 @@ Record books I have read
 完成度：  
 * C表示已经读完(complete)
 * P表示已读部分(part)
-* N表示还没有读(no)  
+* N表示还没有读(no)
+
 熟悉度：  
 * VF非常熟悉(very familiar)
 * JF熟悉(just familiar)
